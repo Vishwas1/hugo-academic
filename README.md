@@ -18,8 +18,14 @@
     * go `Setting` -> `domain management`.
     * `Edit site name` button and change the site name.
 
+## Creating a post
+
+* `hugo new --kind post post/<NAME OF POST>`
+    `hugo new --kind post post/my-post`
+* Open the post and edit the headers
 
 
+https://sourcethemes.com/academic/docs/jupyter/
 
 # Academic Kickstart
 
