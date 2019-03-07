@@ -12,7 +12,12 @@
 
 * signup with github
 * Click on button `New site from Git`
-* 
+* Under continous deployment section, click on `Github` button.
+* Link you Githu repo
+* Now to get custom site name : 
+    * go `Setting` -> `domain management`.
+    * `Edit site name` button and change the site name.
+
 
 
 
