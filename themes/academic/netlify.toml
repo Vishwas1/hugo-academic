@@ -1,8 +1,10 @@
 [build]
-  command = "hugo"
-  publish = "public"
+  command = "hugo --themesDir ../../"
+  base    = "exampleSite"
+  publish = "exampleSite/public"
 
 [build.environment]
+  HUGO_THEME = "repo"
   HUGO_VERSION = "0.53"
   HUGO_ENABLEGITINFO = "true"
 

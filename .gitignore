@@ -1,7 +1,2 @@
-# IDE specific
+public/
 .idea/
-.vscode/
-resources/
-
-# Jupyter
-.ipynb_checkpoints/
